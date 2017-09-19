@@ -1,6 +1,6 @@
 # Examples You Can Try
 
-### This is, after all, a _Swift_ event!
+### This is, after all, a _Swift_ event.
 
 *Request*
 ```
