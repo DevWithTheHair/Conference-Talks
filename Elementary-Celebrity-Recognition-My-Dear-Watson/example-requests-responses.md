@@ -1,6 +1,6 @@
 # Examples You Can Try
 
-## This is, after all, a _Swift_ event!
+### This is, after all, a _Swift_ event!
 
 *Request*
 ```
@@ -21,7 +21,7 @@
 }
 ```
 
-## This seemed fitting since Swift is _Apple_ technology.
+### This seemed fitting since Swift is _Apple_ technology.
 
 *Request*
 ```
@@ -42,7 +42,7 @@
 }
 ```
 
-## Unfortunately, I'm not a celebrity. ;)
+### Unfortunately, I'm not a celebrity. ;)
 
 *Request*
 ```
