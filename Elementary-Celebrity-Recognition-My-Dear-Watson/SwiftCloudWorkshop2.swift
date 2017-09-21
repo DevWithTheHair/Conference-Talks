@@ -2,6 +2,8 @@
 /// This is the companion code for my conference talk on using server-side Swift
 /// via IBM Cloud Functions hosted on Bluemix.
 ///
+/// https://github.com/DevWithTheHair/Conference-Talks/tree/master/Elementary-Celebrity-Recognition-My-Dear-Watson
+///
 /// Abstract:
 ///
 /// "Elementary (Celebrity Recognition), My Dear Watson"
@@ -22,13 +24,13 @@ import VisualRecognitionV3
 /// been identified and *who* those celebrities are.
 ///
 /// - Parameter args: IBM Cloud Functions actions accept a single parameter, which must be a JSON object.
-///                   In this case, we'll look for a JSON object of the form:
+///                   In this case, we'll look for a JSON object of this form:
 ///                   {
 ///                       "image-url": "some_image_url"
 ///                   }
 ///
 /// - Returns: IBM Cloud Functions must return a JSON object.
-///            In this case, we'll return a JSON object of the form:
+///            In this case, we'll return a JSON object of this form with an array element for each detected face:
 ///            {
 ///                "results": [
 ///                    {
@@ -38,7 +40,7 @@ import VisualRecognitionV3
 ///                ]
 ///            }
 ///
-func main(args: [String:Any]) -> [String:Any] {
+func main(args: [String: Any]) -> [String: Any] {
     // This is the response that we will ultimately return from this function.
     var response: [String: Any] = [:]
     
@@ -53,10 +55,10 @@ func main(args: [String:Any]) -> [String:Any] {
     // Watson Visual Recognition API call.
     let semaphore = DispatchSemaphore(value: 0)
     
-    // This is the closure that the Watson Visual Recognition API will used in the case of a failure.
+    // This is the closure that gets called if the Watson Visual Recognition API returns an error.
     // For this example, we'll set the response so the caller knows that an error occurred.
     let failure = { (error: Error) in
-        response = ["Error": "Generic Failure"]
+        response = ["Error": "Generic Failure: \(error)"]
         semaphore.signal()
     }
     
