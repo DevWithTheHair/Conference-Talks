@@ -73,8 +73,8 @@ func main(args: [String: Any]) -> [String: Any] {
         // For each of the images returned by Watson,
         // loop through each of the faces in a given image and
         // determine if the face has been identified as a celebrity by Watson.
-        allImages.images.forEach { image in
-            image.faces.forEach { face in
+        for image in allImages.images {
+            for face in image.faces {
                 if let identity = face.identity {
                     // This is a celebrity!
                     let celebrity: [String: Any] = [
