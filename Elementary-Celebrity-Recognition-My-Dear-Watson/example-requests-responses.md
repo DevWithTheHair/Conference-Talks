@@ -62,3 +62,52 @@
   ]
 }
 ```
+
+### An example of a group (cast of Star Trek: The Next Generation)
+
+*Request*
+```
+{
+    "image-url": "http://tng.trekcore.com/gallery/albums/publicity/season5/cast_s5.jpg"
+}
+```
+
+*Response*
+```
+{
+    "celebrityResults": [
+      {
+        "isCelebrity": true,
+        "name": "Jonathan Frakes"
+      },
+      {
+        "isCelebrity": false,
+        "name": "Unknown"
+      },
+      {
+        "isCelebrity": true,
+        "name": "Patrick Stewart"
+      },
+      {
+        "isCelebrity": true,
+        "name": "Brent Spiner"
+      },
+      {
+        "isCelebrity": false,
+        "name": "Unknown"
+      },
+      {
+        "isCelebrity": true,
+        "name": "Marina Sirtis"
+      },
+      {
+        "isCelebrity": true,
+        "name": "Whoopi Goldberg"
+      },
+      {
+        "isCelebrity": false,
+        "name": "Unknown"
+      }
+    ]
+}
+```
