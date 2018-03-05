@@ -5,6 +5,9 @@
 ### The Lead Developer
 - [I’m Lazy So I Write Tests](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Im-Lazy-So-I-Write-Tests)
 
+### We RISE Tech Conference
+- [Elementary (Celebrity Recognition), My Dear Watson](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Elementary-Celebrity-Recognition-My-Dear-Watson)
+
 ## 2017
 
 ### 360iDev
