@@ -1,5 +1,11 @@
 # Conference-Talks
 
+These are the conference talks and other presentations that I have given.
+
+Each folder represents a distinct presentation and includes the slides and related resources (e.g. source code).
+
+Below is a list of the conferences at which I have presented these talks, ordered by year.
+
 ## 2018
 
 ### The Lead Developer
