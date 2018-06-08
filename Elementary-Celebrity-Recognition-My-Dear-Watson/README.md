@@ -4,4 +4,3 @@ Do you ever have trouble matching a name to a face? Or wondered if someone was c
 
 - Presented at [Swift Cloud Workshop 2](https://www.swiftcloudwork.shop/speakers) September 30, 2017 [[Available on Speaker Deck]](https://speakerdeck.com/devwiththehair/elementary-celebrity-recognition-my-dear-watson)
 - Presented at [Swift Seattle meetup](https://www.meetup.com/SwiftSeattle/events/244524995/) November 15, 2017
-- To be presented at [We RISE Tech](https://werise.tech/speakers/2018/3/1/jaime-lopez) June 21-22, 2018
