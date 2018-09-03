@@ -8,7 +8,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Past Talks
 
-## [We RISE Tech Conference](https://werise.tech/): Atlanta, GA - June 2018
+## [We RISE Tech Conference](https://werise.tech/): Atlanta, GA 🇺🇸 - June 2018
 
 ### What’s My Age Again?
 
@@ -17,7 +17,7 @@ Have you ever been at a carnival and had your age guessed in one of those quiz g
 - [Video](https://www.recallact.com/presentation/whats-my-age-again)
 - [Slides and Code](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Whats-My-Age-Again)
 
-## [The Lead Developer](https://theleaddeveloper.com/): Austin, TX - March 2018
+## [The Lead Developer](https://theleaddeveloper.com/): Austin, TX 🇺🇸 - March 2018
 
 ### I’m Lazy So I Write Tests
 
@@ -26,7 +26,7 @@ Does your team deal with bugs that could have been caught earlier in the develop
 - [Video](https://www.youtube.com/watch?v=LAXjfYi-KyM)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Im-Lazy-So-I-Write-Tests)
 
-## [Swift Cloud Workshop 2](https://www.swiftcloudwork.shop/): Austin, TX - September 2017
+## [Swift Cloud Workshop 2](https://www.swiftcloudwork.shop/): Austin, TX 🇺🇸 - September 2017
 
 ### Elementary (Celebrity Recognition), My Dear Watson
 
@@ -34,7 +34,7 @@ Do you ever have trouble matching a name to a face? Or wondered if someone was c
 
 - [Slides and Code](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Elementary-Celebrity-Recognition-My-Dear-Watson)
 
-## [360iDev](https://360idev.com/): Denver, CO - August 2017
+## [360iDev](https://360idev.com/): Denver, CO 🇺🇸 - August 2017
 
 ### Becoming a Better Developer by Talking
 
