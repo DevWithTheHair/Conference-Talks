@@ -8,6 +8,15 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Coming Up
 
+## [CodeMobile](http://www.codemobile.co.uk/): Chester, UK 🇬🇧 - April 2019
+
+### What’s My Age Again?
+
+Have you ever been at a carnival and had your age guessed in one of those quiz games? The carnival barkers usually struggle to determine my age. What’s my age again? In this talk, we’ll build a microservice in Swift that will use IBM Watson’s Visual Recognition API to figure out my age (and the ages of some celebrities)!
+
+- [Video (from We RISE Tech Conference)](https://www.recallact.com/presentation/whats-my-age-again)
+- [Slides and Code](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Whats-My-Age-Again)
+
 ## [Seattle Code Camp](https://seattle.codecamp.us/): Seattle, WA 🇺🇸 - September 2018
 
 ### What’s My Age Again?
