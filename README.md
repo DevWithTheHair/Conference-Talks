@@ -17,6 +17,15 @@ Have you ever been at a carnival and had your age guessed in one of those quiz g
 - [Video (from We RISE Tech Conference)](https://www.recallact.com/presentation/whats-my-age-again)
 - [Slides and Code](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Whats-My-Age-Again)
 
+## [Seattle GNU/Linux Conference](http://seagl.org/): Seattle, WA 🇺🇸 - November 2018
+
+### I’m Lazy So I Write Tests
+
+Does your team deal with bugs that could have been caught earlier in the development cycle? Wish you could get the benefits of Test-driven development (TDD) but are worried that your dev team might revolt or that stakeholders will think that you're being unproductive? In this talk, we'll discuss an approach I've taken to balance the concerns of developers and stakeholders while simultaneously increasing developer productivity, increasing knowledge sharing, and reducing software defects. I've named this approach "TBD", or "Test-backed development".
+
+- [Video (from The Lead Developer)](https://www.youtube.com/watch?v=LAXjfYi-KyM)
+- [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Im-Lazy-So-I-Write-Tests)
+
 ## [Seattle Code Camp](https://seattle.codecamp.us/): Seattle, WA 🇺🇸 - September 2018
 
 ### What’s My Age Again?
