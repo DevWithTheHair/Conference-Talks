@@ -26,6 +26,8 @@ Does your team deal with bugs that could have been caught earlier in the develop
 - [Video (from The Lead Developer)](https://www.youtube.com/watch?v=LAXjfYi-KyM)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Im-Lazy-So-I-Write-Tests)
 
+# Past Talks
+
 ## [Seattle Code Camp](https://seattle.codecamp.us/): Seattle, WA 🇺🇸 - September 2018
 
 ### What’s My Age Again?
@@ -34,8 +36,6 @@ Have you ever been at a carnival and had your age guessed in one of those quiz g
 
 - [Video (from We RISE Tech Conference)](https://www.recallact.com/presentation/whats-my-age-again)
 - [Slides and Code](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Whats-My-Age-Again)
-
-# Past Talks
 
 ## [We RISE Tech Conference](https://werise.tech/): Atlanta, GA 🇺🇸 - June 2018
 
