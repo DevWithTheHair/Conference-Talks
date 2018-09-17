@@ -71,7 +71,7 @@ func main(args: [String: Any]) -> [String: Any] {
     
     let apiKey = "your-apikey-here" // This is obtained from your Watson Service credentials.
     let version = "YYYY-MM-DD" // Use the most recent version date compatible with your needs.
-    let visualRecognition = VisualRecognition(apiKey: apiKey, version: version)
+    let visualRecognition = VisualRecognition(version: version, apiKey: apiKey)
     
     visualRecognition.detectFaces(url: imageURL, failure: failure) { allImages in
         // This will be used as temporary storage for our detected faces.
