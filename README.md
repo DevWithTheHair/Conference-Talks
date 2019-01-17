@@ -8,6 +8,12 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Coming Up
 
+## [iOSDevUK](https://www.iosdevuk.com/): Aberystwyth, UK 🇬🇧 - September 2019
+
+### Designers + Developers = Best Friends Forever?
+
+How is the relationship between your design team and your development team? Is it highly functional? Or ‘just professional’? Maybe it has seen better days? In this talk, we’ll discuss some tips, based on my experience, for how to achieve that highly-coveted ‘Best Friends Forever (BFF)’ status between the Design and Development teams!
+
 ## [CodeMobile](http://www.codemobile.co.uk/): Chester, UK 🇬🇧 - April 2019
 
 ### What’s My Age Again?
