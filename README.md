@@ -23,6 +23,8 @@ Have you ever been at a carnival and had your age guessed in one of those quiz g
 - [Video (from We RISE Tech Conference)](https://www.recallact.com/presentation/whats-my-age-again)
 - [Slides and Code](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Whats-My-Age-Again)
 
+# Past Talks
+
 ## [DevRelCon Tokyo](https://tokyo-2019.devrel.net/): Tokyo, JP 🇯🇵 - March 2019
 
 ### Helping Developers By Podcasting
@@ -32,8 +34,6 @@ Many developers are by nature quiet introverts, but there’s so much to gain fr
 In this session, More Than Just Code host Jaime will talk about his experience with a tech podcast and helping developers in their technical careers. Wherever you are on the scale from hermit to world-class famous person tech blogger, how can talking about development and code make the developer community better?
 
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Helping-Developers-By-Podcasting)
-
-# Past Talks
 
 ## [Seattle GNU/Linux Conference](http://seagl.org/): Seattle, WA 🇺🇸 - November 2018
 
