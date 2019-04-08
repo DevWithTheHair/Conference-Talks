@@ -14,16 +14,16 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 How is the relationship between your design team and your development team? Is it highly functional? Or ‘just professional’? Maybe it has seen better days? In this talk, we’ll discuss some tips, based on my experience, for how to achieve that highly-coveted ‘Best Friends Forever (BFF)’ status between the Design and Development teams!
 
+# Past Talks
+
 ## [CodeMobile](http://www.codemobile.co.uk/): Chester, UK 🇬🇧 - April 2019
 
 ### What’s My Age Again?
 
 Have you ever been at a carnival and had your age guessed in one of those quiz games? The carnival barkers usually struggle to determine my age. What’s my age again? In this talk, we’ll build a microservice in Swift that will use IBM Watson’s Visual Recognition API to figure out my age (and the ages of some celebrities)!
 
-- [Video (from We RISE Tech Conference)](https://www.recallact.com/presentation/whats-my-age-again)
+- [Video](https://www.youtube.com/watch?v=PEIEjaNx7zY)
 - [Slides and Code](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Whats-My-Age-Again)
-
-# Past Talks
 
 ## [DevRelCon Tokyo](https://tokyo-2019.devrel.net/): Tokyo, JP 🇯🇵 - March 2019
 
