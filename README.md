@@ -9,6 +9,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 # Coming Up
 
 ## [iOSDevUK](https://www.iosdevuk.com/): Aberystwyth, UK 🇬🇧 - September 2019
+- [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
 
 ### Designers + Developers = Best Friends Forever?
 
