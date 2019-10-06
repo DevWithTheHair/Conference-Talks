@@ -7,4 +7,8 @@ Do you ever have trouble matching a name to a face? Or wondered if someone was c
 
 ### Deprecation Note
 
-Sadly, changes to the Watson API have rendered this example defunct. However, its successor lives on in [What’s My Age Again?](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Whats-My-Age-Again)
+Sadly, [changes to the Watson API](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-release-notes#2april2018) have rendered this example defunct.
+
+> The enhanced model does not include `FaceIdentity` information in the response. The identity information refers to the `name` of the person, `score`, and `type_hierarchy` knowledge graph.
+
+However, its successor lives on in [What’s My Age Again?](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Whats-My-Age-Again)
