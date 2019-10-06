@@ -6,3 +6,11 @@ Have you ever been at a carnival and had your age guessed in one of those quiz g
 - Presented at [Seattle Code Camp](https://seattle.codecamp.us/) September 15, 2018
 - Presented at [We RISE Tech](https://werise.tech/sessions/2018/6/3/whats-my-age-again) June 21, 2018 [[Available on Speaker Deck]](https://speakerdeck.com/devwiththehair/whats-my-age-again), [[Video on Recall Act]](https://www.recallact.com/presentation/whats-my-age-again)
 - Presented at [Seattle Xcoders](http://seattlexcoders.org/) June 14, 2018 [[Video on Vimeo]](https://vimeo.com/276782753)
+
+### Deprecation Note
+
+Unfortunately, the Watson API has been [modified to remove the face detection methods](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-release-notes#12-september-2019), therefore rendering this example defunct.
+
+> **Detect faces methods removed**
+>
+> As of 12 September 2019, the **Detect Faces** methods are removed from Visual Recognition. These methods include `GET /v3/detect_faces` and `POST /v3/detect_faces`.
