@@ -8,7 +8,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Coming Up
 
-## [GIDS Australia](https://developersummit.com/australia/): Sydney & Melbourne, AU 🇦🇺- October, 2020
+## [GIDS Australia](https://developersummit.com/australia/): Sydney & Melbourne, AU 🇦🇺 - October, 2020
 
 ### Talk TBD
 
