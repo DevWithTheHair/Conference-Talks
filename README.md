@@ -8,11 +8,9 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Coming Up
 
-## BOOK ME FOR SPEAKING IN 2020
+## [GIDS Australia](https://developersummit.com/australia/): Sydney & Melbourne, AU 🇦🇺- October, 2020
 
-Interested in having me speak at your conference in 2020?
-
-[Contact Me](https://twitter.com/DevWithTheHair)
+### Talk TBD
 
 # Past Talks
 
