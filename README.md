@@ -8,9 +8,25 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Coming Up
 
+## [GIDS Live 2020 (GIDS.Lead Dev)](https://wurreka.com/ict/virtual-conference/leaddev/): Virtual, Online 🌏 - November, 2020
+
+### Designers + Developers = Best Friends Forever?
+
+How is the relationship between your design team and your development team? Is it highly functional? Or ‘just professional’? Maybe it has seen better days? In this talk, we’ll discuss some tips, based on my experience, for how to achieve that highly-coveted ‘Best Friends Forever (BFF)’ status between the Design and Development teams!
+
+- [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
+
+## [GIDS Live 2020 (GIDS.Web)](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🌏 - September, 2020
+
+### Web Components: 10 Things to Know
+
+Web Components are an exciting, standards-based way to build web apps. However, not everyone knows much about them! We’ll discuss 10 things to know about Web Components including the main technologies involved in the standards and how LitElement and open-wc can help when building Web Components.
+
 ## [GIDS Australia](https://developersummit.com/australia/): Sydney & Melbourne, AU 🇦🇺 - October, 2020
 
-### Talk TBD
+### (Talk - Rescheduled)
+
+Due to the global pandemic, GIDS Australia has transformed into GIDS Live 2020. See those sessions above for details.
 
 # Past Talks
 
