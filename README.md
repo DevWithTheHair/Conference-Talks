@@ -16,7 +16,7 @@ How is the relationship between your design team and your development team? Is i
 
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
 
-## [GIDS Live 2020 (GIDS.Web)](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🌏 - September, 2020
+## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🌏 - September, 2020
 
 ### Web Components: 10 Things to Know
 
