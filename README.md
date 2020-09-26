@@ -8,7 +8,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Coming Up
 
-## [GIDS Live 2020 (GIDS.Lead Dev)](https://wurreka.com/ict/virtual-conference/leaddev/): Virtual, Online 🌏 - November, 2020
+## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🌏 - November, 2020
 
 ### Designers + Developers = Best Friends Forever?
 
