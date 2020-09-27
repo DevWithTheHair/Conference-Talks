@@ -30,6 +30,8 @@ How is the relationship between your design team and your development team? Is i
 
 Web Components are an exciting, standards-based way to build web apps. However, not everyone knows much about them! We’ll discuss 10 things to know about Web Components including the main technologies involved in the standards and how LitElement and open-wc can help when building Web Components.
 
+- [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Web-Components-10-Things-to-Know)
+
 ## [GIDS Australia](https://developersummit.com/australia/): Sydney & Melbourne, AU 🇦🇺 - October, 2020
 
 ### (Talk - Rescheduled)
