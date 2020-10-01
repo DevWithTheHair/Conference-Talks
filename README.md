@@ -24,6 +24,8 @@ How is the relationship between your design team and your development team? Is i
 
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
 
+# Past Talks
+
 ## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🌏 - September, 2020
 
 ### Web Components: 10 Things to Know
@@ -37,8 +39,6 @@ Web Components are an exciting, standards-based way to build web apps. However, 
 ### (Talk - Rescheduled)
 
 Due to the global pandemic, GIDS Australia has transformed into GIDS Live 2020. See those sessions above for details.
-
-# Past Talks
 
 ## [iOSDevUK](https://www.iosdevuk.com/): Aberystwyth, UK 🇬🇧 - September 2019
 
