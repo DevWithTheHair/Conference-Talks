@@ -8,16 +8,6 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Coming Up
 
-## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual, Online 🌏 - November, 2020
-
-### You’re the First DevRel at Your Company, Now What?
-
-You're hired as the first Developer Relations employee at your company. You have many goals to achieve, but also have very few resources. What will you do?
-
-We’ll talk about tips for success when starting your DevRel career, the challenges of the career change, and growing your team.
-
-- [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Youre-the-First-DevRel-at-Your-Company-Now-What)
-
 ## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🌏 - November, 2020
 
 ### Designers + Developers = Best Friends Forever?
@@ -27,6 +17,16 @@ How is the relationship between your design team and your development team? Is i
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
 
 # Past Talks
+
+## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual, Online 🌏 - November, 2020
+
+### You’re the First DevRel at Your Company, Now What?
+
+You're hired as the first Developer Relations employee at your company. You have many goals to achieve, but also have very few resources. What will you do?
+
+We’ll talk about tips for success when starting your DevRel career, the challenges of the career change, and growing your team.
+
+- [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Youre-the-First-DevRel-at-Your-Company-Now-What)
 
 ## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🌏 - September, 2020
 
