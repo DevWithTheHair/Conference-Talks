@@ -6,7 +6,7 @@ Each folder in this repository represents a distinct conference talk and include
 
 Below is a list of the conferences at which I have presented these talks, in descending order by year.
 
-# Coming Up
+# Past Talks
 
 ## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🌏 - November, 2020
 
@@ -15,8 +15,6 @@ Below is a list of the conferences at which I have presented these talks, in des
 How is the relationship between your design team and your development team? Is it highly functional? Or ‘just professional’? Maybe it has seen better days? In this talk, we’ll discuss some tips, based on my experience, for how to achieve that highly-coveted ‘Best Friends Forever (BFF)’ status between the Design and Development teams!
 
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
-
-# Past Talks
 
 ## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual, Online 🌏 - November, 2020
 
