@@ -6,6 +6,12 @@ Each folder in this repository represents a distinct conference talk and include
 
 Below is a list of the conferences at which I have presented these talks, in descending order by year.
 
+## _BOOK ME FOR SPEAKING IN 2021_
+
+Interested in having me speak at your conference in 2021?
+
+[Contact Me](https://twitter.com/DevWithTheHair)
+
 # Past Talks
 
 ## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🌏 - November, 2020
