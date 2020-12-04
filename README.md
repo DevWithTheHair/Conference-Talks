@@ -30,6 +30,7 @@ You're hired as the first Developer Relations employee at your company. You have
 
 We’ll talk about tips for success when starting your DevRel career, the challenges of the career change, and growing your team.
 
+- [Video](https://www.youtube.com/watch?v=feBZ81CTX9w)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Youre-the-First-DevRel-at-Your-Company-Now-What)
 
 ## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🌏 - September, 2020
