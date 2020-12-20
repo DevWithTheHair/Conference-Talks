@@ -20,6 +20,7 @@ Interested in having me speak at your conference in 2021?
 
 How is the relationship between your design team and your development team? Is it highly functional? Or ‘just professional’? Maybe it has seen better days? In this talk, we’ll discuss some tips, based on my experience, for how to achieve that highly-coveted ‘Best Friends Forever (BFF)’ status between the Design and Development teams!
 
+- [Video](https://www.youtube.com/watch?v=fulpvGEoplM)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
 
 ## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual, Online 🌏 - November, 2020
