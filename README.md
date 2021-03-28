@@ -18,7 +18,7 @@ We’ll talk about tips for success and mistakes to avoid when taking those firs
 
 # Past Talks
 
-## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🌏 - November, 2020
+## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🇦🇺 🌏 - November, 2020
 
 ### Designers + Developers = Best Friends Forever?
 
@@ -27,7 +27,7 @@ How is the relationship between your design team and your development team? Is i
 - [Video](https://www.youtube.com/watch?v=fulpvGEoplM)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
 
-## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual, Online 🌏 - November, 2020
+## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual, Online 🇯🇵 🇰🇷 🌏 - November, 2020
 
 ### You’re the First DevRel at Your Company, Now What?
 
@@ -38,7 +38,7 @@ We’ll talk about tips for success when starting your DevRel career, the challe
 - [Video](https://www.youtube.com/watch?v=feBZ81CTX9w)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Youre-the-First-DevRel-at-Your-Company-Now-What)
 
-## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🌏 - September, 2020
+## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🇦🇺 🌏 - September, 2020
 
 ### Web Components: 10 Things to Know
 
