@@ -8,7 +8,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Upcoming Talks
 
-## [DevRelCon Tokyo](https://tokyo-2021.devrel.net/): Virtual, Online 🇯🇵 🌏- June, 2021
+## [DevRelCon Tokyo](https://tokyo-2021.devrel.net/): Virtual, Online 🇯🇵 🌏 - June, 2021
 
 ### Becoming a Manager in DevRel
 
