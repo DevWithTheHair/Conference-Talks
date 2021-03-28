@@ -6,11 +6,15 @@ Each folder in this repository represents a distinct conference talk and include
 
 Below is a list of the conferences at which I have presented these talks, in descending order by year.
 
-## _BOOK ME FOR SPEAKING IN 2021_
+## Upcoming Talks
 
-Interested in having me speak at your conference in 2021?
+## [DevRelCon Tokyo](https://tokyo-2021.devrel.net/): Virtual, Online 🇯🇵 🌏- June, 2021
 
-[Contact Me](https://twitter.com/DevWithTheHair)
+### Becoming a Manager in DevRel
+
+Working as a team member in DevRel can be challenging. Working as a manager in DevRel is a different kind of challenge. It can even be a bit overwhelming.
+
+We’ll talk about tips for success and mistakes to avoid when taking those first few steps as a manager in DevRel.
 
 # Past Talks
 
