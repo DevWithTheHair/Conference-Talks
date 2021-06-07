@@ -6,7 +6,7 @@ Each folder in this repository represents a distinct conference talk and include
 
 Below is a list of the conferences at which I have presented these talks, in descending order by year.
 
-# Upcoming Talks
+# Past Talks
 
 ## [DevRelCon Tokyo](https://tokyo-2021.devrel.net/): Virtual, Online 🇯🇵 🌏 - June, 2021
 
@@ -17,8 +17,6 @@ Working as a team member in DevRel can be challenging. Working as a manager in D
 We’ll talk about tips for success and mistakes to avoid when taking those first few steps as a manager in DevRel.
 
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Becoming-a-Manager-in-DevRel)
-
-# Past Talks
 
 ## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🇦🇺 🌏 - November, 2020
 
