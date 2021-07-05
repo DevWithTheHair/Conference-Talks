@@ -16,6 +16,7 @@ Working as a team member in DevRel can be challenging. Working as a manager in D
 
 We’ll talk about tips for success and mistakes to avoid when taking those first few steps as a manager in DevRel.
 
+- [Video](https://www.youtube.com/watch?v=1CvTlBjgeoQ)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Becoming-a-Manager-in-DevRel)
 
 ## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🇦🇺 🌏 - November, 2020
