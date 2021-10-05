@@ -14,7 +14,7 @@ Interested in having me speak at your conference in 2022?
 
 # Past Talks
 
-## [DevRelCon Tokyo](https://tokyo-2021.devrel.net/): Virtual, Online 🇯🇵 🌏 - June, 2021
+## [DevRelCon Tokyo](https://tokyo-2021.devrel.net/): Virtual 🇯🇵 🌏 - June, 2021
 
 ### Becoming a Manager in DevRel
 
@@ -25,7 +25,7 @@ We’ll talk about tips for success and mistakes to avoid when taking those firs
 - [Video](https://www.youtube.com/watch?v=1CvTlBjgeoQ)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Becoming-a-Manager-in-DevRel)
 
-## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual, Online 🇦🇺 🌏 - November, 2020
+## [GIDS.Lead](https://wurreka.com/ict/virtual-conference/lead/): Virtual 🇦🇺 🌏 - November, 2020
 
 ### Designers + Developers = Best Friends Forever?
 
@@ -34,7 +34,7 @@ How is the relationship between your design team and your development team? Is i
 - [Video](https://www.youtube.com/watch?v=fulpvGEoplM)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
 
-## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual, Online 🇯🇵 🇰🇷 🌏 - November, 2020
+## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual 🇯🇵 🇰🇷 🌏 - November, 2020
 
 ### You’re the First DevRel at Your Company, Now What?
 
@@ -45,7 +45,7 @@ We’ll talk about tips for success when starting your DevRel career, the challe
 - [Video](https://www.youtube.com/watch?v=feBZ81CTX9w)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Youre-the-First-DevRel-at-Your-Company-Now-What)
 
-## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual, Online 🇦🇺 🌏 - September, 2020
+## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual 🇦🇺 🌏 - September, 2020
 
 ### Web Components: 10 Things to Know
 
