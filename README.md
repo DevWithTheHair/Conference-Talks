@@ -1,4 +1,4 @@
-# Conference Talks and Other Presentations
+# Conference Talks
 
 These are the conference talks and other presentations that I have given.
 
