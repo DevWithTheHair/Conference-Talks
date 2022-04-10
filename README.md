@@ -18,6 +18,8 @@ Interested in having me speak at your conference in 2022?
 
 ### Becoming a Manager in DevRel
 
+![image](https://user-images.githubusercontent.com/31429468/162634327-804e0cff-5e01-4707-a7cf-6dfb83594adf.png)
+
 Working as a team member in DevRel can be challenging. Working as a manager in DevRel is a different kind of challenge. It can even be a bit overwhelming.
 
 We’ll talk about tips for success and mistakes to avoid when taking those first few steps as a manager in DevRel.
@@ -29,6 +31,8 @@ We’ll talk about tips for success and mistakes to avoid when taking those firs
 
 ### Designers + Developers = Best Friends Forever?
 
+![image](https://user-images.githubusercontent.com/31429468/162634393-c830a18e-7725-4af6-accc-92845848463f.png)
+
 How is the relationship between your design team and your development team? Is it highly functional? Or ‘just professional’? Maybe it has seen better days? In this talk, we’ll discuss some tips, based on my experience, for how to achieve that highly-coveted ‘Best Friends Forever (BFF)’ status between the Design and Development teams!
 
 - [Video](https://www.youtube.com/watch?v=fulpvGEoplM)
@@ -37,6 +41,8 @@ How is the relationship between your design team and your development team? Is i
 ## [DevRel/Asia 2020](https://devrel.dev/asia-2020/): Virtual 🇯🇵 🇰🇷 🌏 - November, 2020
 
 ### You’re the First DevRel at Your Company, Now What?
+
+![image](https://user-images.githubusercontent.com/31429468/162634490-9defbf94-5fb7-4718-9544-1622b87b38d8.png)
 
 You're hired as the first Developer Relations employee at your company. You have many goals to achieve, but also have very few resources. What will you do?
 
@@ -48,6 +54,8 @@ We’ll talk about tips for success when starting your DevRel career, the challe
 ## [GIDS.Web](https://wurreka.com/ict/virtual-conference/web/): Virtual 🇦🇺 🌏 - September, 2020
 
 ### Web Components: 10 Things to Know
+
+![image](https://user-images.githubusercontent.com/31429468/162634602-cfe8b807-6ec6-4320-8722-0fb9f66d2130.png)
 
 Web Components are an exciting, standards-based way to build web apps. However, not everyone knows much about them! We’ll discuss 10 things to know about Web Components including the main technologies involved in the standards and how LitElement and open-wc can help when building Web Components.
 
@@ -72,6 +80,8 @@ How is the relationship between your design team and your development team? Is i
 
 ### What’s My Age Again?
 
+![image](https://user-images.githubusercontent.com/31429468/162634694-91ce1e28-4e21-4b10-a0b8-c867a9edfd0f.png)
+
 Have you ever been at a carnival and had your age guessed in one of those quiz games? The carnival barkers usually struggle to determine my age. What’s my age again? In this talk, we’ll build a microservice in Swift that will use IBM Watson’s Visual Recognition API to figure out my age (and the ages of some celebrities)!
 
 - [Video](https://www.youtube.com/watch?v=PEIEjaNx7zY)
@@ -80,6 +90,8 @@ Have you ever been at a carnival and had your age guessed in one of those quiz g
 ## [DevRelCon Tokyo](https://tokyo-2019.devrel.net/): Tokyo, JP 🇯🇵 - March 2019
 
 ### Helping Developers By Podcasting
+
+![image](https://user-images.githubusercontent.com/31429468/162634763-274ec79a-7391-45d3-8d7e-c08623005a14.png)
 
 Many developers are by nature quiet introverts, but there’s so much to gain from having more conversations — from rubber duck debugging, to arguing about spaces vs tabs, to speaking at conferences, and podcasting to the entire world!
 
@@ -110,6 +122,8 @@ Have you ever been at a carnival and had your age guessed in one of those quiz g
 
 ### What’s My Age Again?
 
+![image](https://user-images.githubusercontent.com/31429468/162634835-7fb5896a-4962-4c68-b079-05e8c5963e8f.png)
+
 Have you ever been at a carnival and had your age guessed in one of those quiz games? The carnival barkers usually struggle to determine my age. What’s my age again? In this talk, we’ll build a microservice in Swift that will use IBM Watson’s Visual Recognition API to figure out my age (and the ages of some celebrities)!
 
 - [Video](https://www.recallact.com/presentation/whats-my-age-again)
@@ -118,6 +132,8 @@ Have you ever been at a carnival and had your age guessed in one of those quiz g
 ## [The Lead Developer](https://theleaddeveloper.com/): Austin, TX 🇺🇸 - March 2018
 
 ### I’m Lazy So I Write Tests
+
+![image](https://user-images.githubusercontent.com/31429468/162634902-132ad399-626b-45f9-ae70-fe25818ec01f.png)
 
 Does your team deal with bugs that could have been caught earlier in the development cycle? Wish you could get the benefits of Test-driven development (TDD) but are worried that your dev team might revolt or that stakeholders will think that you're being unproductive? In this talk, we'll discuss an approach I've taken to balance the concerns of developers and stakeholders while simultaneously increasing developer productivity, increasing knowledge sharing, and reducing software defects. I've named this approach "TBD", or "Test-backed development".
 
@@ -135,6 +151,8 @@ Do you ever have trouble matching a name to a face? Or wondered if someone was c
 ## [360iDev](https://360idev.com/): Denver, CO 🇺🇸 - August 2017
 
 ### Becoming a Better Developer by Talking
+
+![image](https://user-images.githubusercontent.com/31429468/162634977-7374a019-0028-441d-a565-7dfea546094e.png)
 
 Many developers are by nature quiet introverts, but there's so much to gain from having more conversations — from rubber duck debugging, to arguing about spaces vs tabs, to speaking at conferences, and podcasting to the entire world!
 
