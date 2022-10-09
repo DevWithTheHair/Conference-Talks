@@ -10,7 +10,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 Interested in having me speak at your conference in 2023?
 
-[Contact Me](https://twitter.com/DevWithTheHair)
+[Contact Me on Twitter](https://twitter.com/DevWithTheHair)
 
 # Past Talks
 
