@@ -72,6 +72,8 @@ Due to the global pandemic, GIDS Australia has transformed into GIDS Live 2020. 
 
 ### Designers + Developers = Best Friends Forever?
 
+![image](https://user-images.githubusercontent.com/31429468/194737606-ec5622be-b655-44cf-bcc7-0873f81e3086.png)
+
 How is the relationship between your design team and your development team? Is it highly functional? Or ‘just professional’? Maybe it has seen better days? In this talk, we’ll discuss some tips, based on my experience, for how to achieve that highly-coveted ‘Best Friends Forever (BFF)’ status between the Design and Development teams!
 
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Designers-Plus-Developers-Equals-Best-Friends-Forever)
