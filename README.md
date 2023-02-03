@@ -6,11 +6,19 @@ Each folder in this repository represents a distinct conference talk and include
 
 Below is a list of the conferences at which I have presented these talks, in descending order by year.
 
-### Book me for speaking in 2023
+# Upcoming Talks
 
-Interested in having me speak at your conference in 2023?
+## [DevRelCon Yokohama](https://yokohama-2023.devrelcon.dev/): Yokohama, JP 🇯🇵 - March 2023
 
-[Contact Me on Twitter](https://twitter.com/DevWithTheHair)
+### Explain the Value of DevRel by Writing Narratives
+
+Do you spend a lot of time tracking and explaining KPIs (Key Performance Indicators), OKRs (Objectives and Key Results), and other metrics?
+
+Do you wonder if they’re communicating your team’s value?
+
+Or even worse, do you worry that your team’s contributions are being overlooked?
+
+This session comes from my experience in writing narratives to explain the value of DevRel. This has helped DevRel at my company to grow from a single individual to a team of three. This has also helped avoid workforce reductions due to the economy.
 
 # Past Talks
 
