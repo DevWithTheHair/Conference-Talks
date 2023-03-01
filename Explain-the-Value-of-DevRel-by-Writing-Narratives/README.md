@@ -8,4 +8,4 @@ Or even worse, do you worry that your team’s contributions are being overlooke
 
 This session comes from my experience in writing narratives to explain the value of DevRel. This has helped DevRel at my company to grow from a single individual to a team of three. This has also helped avoid workforce reductions due to the economy.
 
-- Will be presentd at [DevRelCon Yokohama](https://yokohama-2023.devrelcon.dev/) March 11, 2023
+- Will be presentd at [DevRelCon Yokohama](https://yokohama-2023.devrelcon.dev/) March 11, 2023 [[Available on Speaker Deck]](https://speakerdeck.com/devwiththehair/explain-the-value-of-devrel-by-writing-narratives)
