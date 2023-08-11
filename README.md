@@ -8,6 +8,10 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Upcoming Talks
 
+[Book me for your event in 2024](https://twitter.com/devwiththehair)
+
+# Past Talks
+
 ## [DevRelCon Yokohama](https://yokohama-2023.devrelcon.dev/): Yokohama, JP 🇯🇵 - March 2023
 
 ### Explain the Value of DevRel by Writing Narratives
@@ -20,9 +24,9 @@ Or even worse, do you worry that your team’s contributions are being overlooke
 
 This session comes from my experience in writing narratives to explain the value of DevRel. This has helped DevRel at my company to grow from a single individual to a team of three. This has also helped avoid workforce reductions due to the economy.
 
+- [Video](https://www.youtube.com/watch?v=XduTid5HMGQ)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Explain-the-Value-of-DevRel-by-Writing-Narratives)
 
-# Past Talks
 
 ## [DevRelCon Tokyo](https://tokyo-2021.devrel.net/): Virtual 🇯🇵 🌏 - June, 2021
 
