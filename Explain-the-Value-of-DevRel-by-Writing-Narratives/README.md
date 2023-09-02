@@ -1,5 +1,7 @@
 ### Explain the Value of DevRel by Writing Narratives
 
+![image](https://github.com/DevWithTheHair/Conference-Talks/assets/31429468/2d5299f9-3cf4-4e45-8a7f-2555daf2e5be)
+
 Do you spend a lot of time tracking and explaining KPIs (Key Performance Indicators), OKRs (Objectives and Key Results), and other metrics?
 
 Do you wonder if they’re communicating your team’s value?
