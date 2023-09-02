@@ -1,5 +1,9 @@
 ### What’s My Age Again?
 
+![image](https://github.com/DevWithTheHair/Conference-Talks/assets/31429468/43981bc9-820e-4eec-ba17-285739e168b2)
+
+![image](https://github.com/DevWithTheHair/Conference-Talks/assets/31429468/04a7eb47-e8cc-4005-b071-65d017b87529)
+
 Have you ever been at a carnival and had your age guessed in one of those quiz games? The carnival barkers usually struggle to determine my age. What’s my age again? In this talk, we’ll build a microservice in Swift that will use IBM Watson’s Visual Recognition API to figure out my age (and the ages of some celebrities)!
 
 - Presented at [CodeMobile UK](http://www.codemobile.co.uk/) April 3, 2019 [[Available on Speaker Deck]](https://speakerdeck.com/devwiththehair/whats-my-age-again), [[Video on YouTube]](https://www.youtube.com/watch?v=PEIEjaNx7zY)
