@@ -75,7 +75,7 @@ We’ll talk about tips for success when starting your DevRel career, the challe
 
 Web Components are an exciting, standards-based way to build web apps. However, not everyone knows much about them! We’ll discuss 10 things to know about Web Components including the main technologies involved in the standards and how LitElement and open-wc can help when building Web Components.
 
-- [Video](https://www.youtube.com/watch?v=HwGZITMLT94)
+- [Video](https://saltmarch.com/watch/web-components-10-things-to-know)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Web-Components-10-Things-to-Know)
 
 ## [GIDS Australia](https://developersummit.com/australia/): Sydney & Melbourne, AU 🇦🇺 - October, 2020
