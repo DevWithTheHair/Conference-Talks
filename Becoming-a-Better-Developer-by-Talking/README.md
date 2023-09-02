@@ -1,4 +1,4 @@
-### Being a Better Developer By Talking
+### Becoming a Better Developer By Talking
 
 ![image](https://github.com/DevWithTheHair/Conference-Talks/assets/31429468/387261da-e712-40f7-8551-a48705d4d3b8)
 
