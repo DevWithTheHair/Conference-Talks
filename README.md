@@ -16,6 +16,8 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 ### Explain the Value of DevRel by Writing Narratives
 
+![image](https://github.com/DevWithTheHair/Conference-Talks/assets/31429468/4774ae00-be71-45ee-acf9-f34e699484f0)
+
 Do you spend a lot of time tracking and explaining KPIs (Key Performance Indicators), OKRs (Objectives and Key Results), and other metrics?
 
 Do you wonder if they’re communicating your team’s value?
