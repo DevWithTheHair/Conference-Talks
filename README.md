@@ -10,6 +10,12 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 [Book me for your event in 2024](https://twitter.com/devwiththehair)
 
+## [FDX Spring Global Summit](https://financialdataexchange.org/FDX/Global-Summit-2024.aspx): Washington, D.C. 🇺🇸 - March 2024
+
+### Challenges of Developer Relations for an Open Banking API
+
+It's not easy to scale an open banking API to handle hundreds of financial institutions and millions of API connections. Creating a high-quality developer experience requires open developer documentation, open source example code, and self-serve API credentials. We'll talk about the challenges faced when providing an open banking API.
+
 # Past Talks
 
 ## [DevRelCon Yokohama](https://yokohama-2023.devrelcon.dev/): Yokohama, JP 🇯🇵 - March 2023
