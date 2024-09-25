@@ -10,6 +10,17 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 [Book me for your event in 2025](https://twitter.com/devwiththehair)
 
+## [OpenFinity EXPO](https://www.openfinity.org/expo2024): Virtual 🇺🇸 🌏 - November, 2024
+
+### Challenges of Developer Relations for an Open Banking API
+
+![image](https://github.com/DevWithTheHair/Conference-Talks/assets/31429468/8748b7aa-c303-47fd-af04-b3f08f60b9bf)
+
+It's not easy to scale an open banking API to handle hundreds of financial institutions and millions of API connections. Creating a high-quality developer experience requires open developer documentation, open source example code, and self-serve API credentials. We'll talk about the challenges faced when providing an open banking API.
+
+- [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Challenges-of-Developer-Relations-for-an-Open-Banking-API)
+
+
 # Past Talks
 
 ## [FDX Spring Global Summit](https://financialdataexchange.org/FDX/Global-Summit-2024.aspx): Washington, D.C. 🇺🇸 - March 2024
