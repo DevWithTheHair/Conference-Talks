@@ -8,7 +8,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Upcoming Talks
 
-[Book me for your event in 2024](https://twitter.com/devwiththehair)
+[Book me for your event in 2025](https://twitter.com/devwiththehair)
 
 # Past Talks
 
