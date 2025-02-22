@@ -4,5 +4,5 @@
 
 It's not easy to scale an open banking API to handle hundreds of financial institutions and millions of API connections. Creating a high-quality developer experience requires open developer documentation, open source example code, and self-serve API credentials. We'll talk about the challenges faced when providing an open banking API.
 
-- To be presented at [OpenFinity EXPO 2024](https://www.openfinity.org/expo2024) November 19, 2024
+- Presented at [OpenFinity EXPO 2024](https://www.openfinity.org/expo2024) November 19, 2024 [[Available on Speaker Deck]](https://speakerdeck.com/devwiththehair/challenges-of-developer-relations-for-an-open-banking-api)
 - Presented at [FDX Spring Global Summit](https://financialdataexchange.org/FDX/Global-Summit-2024.aspx) March 14, 2024 [[Available on Speaker Deck]](https://speakerdeck.com/devwiththehair/challenges-of-developer-relations-for-an-open-banking-api)
