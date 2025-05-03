@@ -10,7 +10,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 [Book me for your event in 2025](https://twitter.com/devwiththehair)
 
-## [OpenFinity Days 2025](https://www.openfinity.org/2025-openfinity-days): New York, NY 🇺🇸 🌏 - May, 2025
+## [OpenFinity Days 2025](https://www.openfinity.org/2025-openfinity-days): New York, NY 🇺🇸 - May, 2025
 
 ### Challenges of Developer Relations for an Open Banking API
 
