@@ -30,6 +30,7 @@ It's not easy to scale an open banking API to handle hundreds of financial insti
 
 It's not easy to scale an open banking API to handle hundreds of financial institutions and millions of API connections. Creating a high-quality developer experience requires open developer documentation, open source example code, and self-serve API credentials. We'll talk about the challenges faced when providing an open banking API.
 
+- [Video](https://www.youtube.com/watch?v=3QYGgMB3-0E)
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Challenges-of-Developer-Relations-for-an-Open-Banking-API)
 
 ## [FDX Spring Global Summit](https://financialdataexchange.org/FDX/Global-Summit-2024.aspx): Washington, D.C. 🇺🇸 - March 2024
