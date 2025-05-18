@@ -10,6 +10,8 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 [Book me for your event in 2025](https://twitter.com/devwiththehair)
 
+# Past Talks
+
 ## [OpenFinity Days 2025](https://www.openfinity.org/2025-openfinity-days): New York, NY 🇺🇸 - May, 2025
 
 ### Challenges of Developer Relations for an Open Banking API
@@ -19,8 +21,6 @@ Below is a list of the conferences at which I have presented these talks, in des
 It's not easy to scale an open banking API to handle hundreds of financial institutions and millions of API connections. Creating a high-quality developer experience requires open developer documentation, open source example code, and self-serve API credentials. We'll talk about the challenges faced when providing an open banking API.
 
 - [Slides](https://github.com/DevWithTheHair/Conference-Talks/tree/master/Challenges-of-Developer-Relations-for-an-Open-Banking-API)
-
-# Past Talks
 
 ## [OpenFinity EXPO](https://www.openfinity.org/expo2024): Virtual 🇺🇸 🌏 - November, 2024
 
