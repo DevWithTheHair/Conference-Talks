@@ -16,7 +16,7 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 ### Challenges of Developer Relations for an Open Banking API
 
-![image](https://github.com/DevWithTheHair/Conference-Talks/assets/31429468/8748b7aa-c303-47fd-af04-b3f08f60b9bf)
+![image](https://github.com/user-attachments/assets/fbae5b67-dde0-4a0b-a283-f85e7b98d33b)
 
 It's not easy to scale an open banking API to handle hundreds of financial institutions and millions of API connections. Creating a high-quality developer experience requires open developer documentation, open source example code, and self-serve API credentials. We'll talk about the challenges faced when providing an open banking API.
 
