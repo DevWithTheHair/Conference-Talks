@@ -12,13 +12,13 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 # Past Talks
 
-## [FinTEX for Financial Services 2026]([https://www.openfinity.org/2025-openfinity-days](https://fin.utdallas.edu/sponsored-events/)): Richardson, TX 🇺🇸 - April, 2026
+## [FinTEX for Financial Services 2026](https://fin.utdallas.edu/sponsored-events/): Richardson, TX 🇺🇸 - April, 2026
 
 ### Fintech Alliances
 
 Panelist discussion.
 
-## [FDX Spring Global Summit 2026]([https://www.openfinity.org/2025-openfinity-days](https://financialdataexchange.org/global-summit-2026/)): Washington, D.C. 🇺🇸 - March, 2026
+## [FDX Spring Global Summit 2026](https://financialdataexchange.org/global-summit-2026/): Washington, D.C. 🇺🇸 - March, 2026
 
 ### Collaborating with cores to deliver secure data access
 
