@@ -10,6 +10,12 @@ Below is a list of the conferences at which I have presented these talks, in des
 
 [Book me for your event in 2026](https://twitter.com/devwiththehair)
 
+## [Fintech South 2026](https://www.fintechsouth.com/): Atlanta, GA 🇺🇸 - August, 2026
+
+### Beyond BaaS: Rethinking Bank–Fintech Partnerships
+
+From BaaS to open banking, the infrastructure connecting banks and fintechs is being reimagined. Sponsor banks are renegotiating risk. Fintechs are seeking new distribution models. Data connectivity is creating entirely new partnership possibilities. This session examines how models are evolving, where accountability and control reside, and how banks and fintechs can build durable partnerships in a more open, interconnected, and regulated environment.
+
 # Past Talks
 
 ## [FinTEX for Financial Services 2026](https://fin.utdallas.edu/sponsored-events/): Richardson, TX 🇺🇸 - April, 2026
